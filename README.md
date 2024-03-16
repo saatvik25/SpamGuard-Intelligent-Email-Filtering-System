@@ -1,7 +1,6 @@
 # SpamGuard: Intelligent Email Filtering System
 ## Overview
 SpamGuard is an intelligent email filtering system designed to accurately differentiate between spam and ham (non-spam) emails. It utilizes advanced machine learning techniques to provide users with a reliable tool for managing their email inboxes efficiently.
-
 ## Features
 - Cutting-edge machine learning algorithms for precise email classification.
 - High accuracy in distinguishing between spam and ham emails.
