@@ -7,7 +7,6 @@ SpamGuard is an intelligent email filtering system designed to accurately differ
 - High accuracy in distinguishing between spam and ham emails.
 - Seamless integration with existing email management systems.
 - User-friendly interface for effortless interaction and control.
-
 ## Installation
 1. Clone the repository:
    ```bash
