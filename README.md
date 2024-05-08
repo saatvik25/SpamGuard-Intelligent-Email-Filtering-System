@@ -13,7 +13,6 @@ SpamGuard is an intelligent email filtering system designed to accurately differ
    git clone https://github.com/saatvik25/spamguard.git
 Dataset
 The project utilizes the Spambase Dataset for training and evaluation purposes.
-
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
 
